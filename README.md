@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Sanat Bogenbaev 👋
+# Hey, I'm Sanat Bogenbayev 👋
 
 **Full-Stack Developer** crafting modern web & mobile experiences
 
