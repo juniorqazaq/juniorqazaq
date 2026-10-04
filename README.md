@@ -40,17 +40,3 @@ I’m a Software Engineering student at Astana IT University who enjoys building
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juniorqazaq&theme=github_dark"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juniorqazaq&theme=github_dark"
-    height="180"
-    alt="Most Used Languages"
-  />
-</p>
