@@ -8,7 +8,6 @@
 
 I’m a Software Engineering student at Astana IT University who enjoys building useful, user-friendly applications.
 
-- 🌱 I’m learning more about **React, Go, Java, and backend development**
 - 📫 Reach me: **bogenbaevsanat07@gmail.com**
 
 ---
